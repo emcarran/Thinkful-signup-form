@@ -6,3 +6,10 @@ app.directive('optIn', function () {
         transclude: true
     }
 });
+
+app.directive('myFooter', function () {
+    return {
+        restrict: 'E',
+        templateUrl: 'app/partials/footer.html'
+    }
+});

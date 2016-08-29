@@ -66,3 +66,10 @@ input {
 .full-input-wrapper input[type='submit'] {
     margin-top: 40px;
 }
+
+.footer-wrapper {
+    margin-top: 3em;
+    border-top: 1px solid darkgray;
+    text-align: left;
+    color: darkgray;
+}
