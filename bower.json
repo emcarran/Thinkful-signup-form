@@ -1,0 +1,21 @@
+{
+  "name": "Thinkful-signup-form",
+  "homepage": "https://github.com/emcarran/Thinkful-signup-form",
+  "authors": [
+    "Elizabeth Carranza <elizabeth.m.carranza@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8"
+  }
+}
